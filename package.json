@@ -1,0 +1,7 @@
+{
+  "name": "framework-cmsis-gadgetangel-stm32f1",
+  "description": "CMSIS component for the STMicroelectronics STM32F1 series",
+  "system": "*",
+  "url": "...",
+  "version": "4.3.1"
+}
